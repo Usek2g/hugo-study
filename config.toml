@@ -1,5 +1,5 @@
 #baseurl = "/"
-baseurl = "http://Usek2g.githuu.io/hugo-study"
+baseurl = "http://Usek2g.github.io/hugo-study"
 title = "Mainroad"
 languageCode = "ja-jp"
 paginate = "10" # Number of posts per page
